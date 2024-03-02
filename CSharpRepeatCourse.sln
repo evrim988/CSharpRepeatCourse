@@ -13,23 +13,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IFandElse", "IFandElse\IFandElse.csproj", "{F6D9E416-94D8-4C24-BFAC-4752D22598E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{AC6D2A2D-CC4F-4E04-91C9-E2081CA66065}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{AC6D2A2D-CC4F-4E04-91C9-E2081CA66065}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{4627DDB9-64DF-469A-B5AD-3F601DBB3519}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{4627DDB9-64DF-469A-B5AD-3F601DBB3519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamplePrimeNumber", "ExamplePrimeNumber\ExamplePrimeNumber.csproj", "{555DABF4-4BDD-43BB-8319-A57A0FD3D1F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamplePrimeNumber", "ExamplePrimeNumber\ExamplePrimeNumber.csproj", "{555DABF4-4BDD-43BB-8319-A57A0FD3D1F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethods", "StringMethods\StringMethods.csproj", "{D0FF3EC5-C0AB-4AFA-B498-8365B7FA147C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringMethods", "StringMethods\StringMethods.csproj", "{D0FF3EC5-C0AB-4AFA-B498-8365B7FA147C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{1192079E-2822-4138-869D-C8E0C7C00AD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{1192079E-2822-4138-869D-C8E0C7C00AD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo", "RecapDemo\RecapDemo.csproj", "{AC5DC491-0B14-4717-B5EF-F71DD56C9312}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecapDemo", "RecapDemo\RecapDemo.csproj", "{AC5DC491-0B14-4717-B5EF-F71DD56C9312}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{8DE572D9-92D2-4159-861F-4E04414D7288}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{8DE572D9-92D2-4159-861F-4E04414D7288}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{AC28FA12-8334-400C-B4F6-049547ED3C1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{AC28FA12-8334-400C-B4F6-049547ED3C1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritancess", "Inheritancess\Inheritancess.csproj", "{B8AFC95E-ACC3-4D74-93CF-C9EACF46C56D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritancess", "Inheritancess\Inheritancess.csproj", "{B8AFC95E-ACC3-4D74-93CF-C9EACF46C56D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{6B9A5D73-ED14-43AC-A631-FD1CCD5F875A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{B8AFC95E-ACC3-4D74-93CF-C9EACF46C56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8AFC95E-ACC3-4D74-93CF-C9EACF46C56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8AFC95E-ACC3-4D74-93CF-C9EACF46C56D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9A5D73-ED14-43AC-A631-FD1CCD5F875A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9A5D73-ED14-43AC-A631-FD1CCD5F875A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9A5D73-ED14-43AC-A631-FD1CCD5F875A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9A5D73-ED14-43AC-A631-FD1CCD5F875A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
